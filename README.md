@@ -1,0 +1,3 @@
+Characteristics of 413 residential properties in Barcelona were obtained for different cities such as Ciudad Vieja, Ensanche, Gràcia, Horta-Guinardó, Las Cortes, Nuevos Barrios, San Martín, and Sants-Montjuïc.
+
+Leveraging packages like caret and tidymodels, I built predictive models using techniques such as linear regression, decision trees, and gradient boosting. For time series forecasting, I utilized the forecast package to analyze historical price trends and project future values. Data preparation and cleaning were done using dplyr and tidyverse, while visualization with ggplot2 helped interpret the results effectively. These tools allowed for accurate and insightful predictions tailored to the diverse characteristics of these Spanish neighborhoods.
